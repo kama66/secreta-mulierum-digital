@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="workReg">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Verzeichnis der zitierten Werke</title>
+				<author>
+					<persName>
+						<surname>Mayer</surname>
+						<forename>Katharina</forename>
+					</persName>
+				</author>
+			</titleStmt>
+			<sourceDesc>
+				<p>Born digital.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>Werkverzeichnis</head>
+				<p>Dieses Verzeichnis erfasst alle namentlich im Text genannten Werke, die, sofern verfügbar, mit Normdaten und weiterführenden Informationen verknüpft sind.</p>
+				<listBibl>
+					<bibl xml:id="AviC">
+						<title type="reg">al-Qānūn fī ’ṭ-Ṭibb</title>
+						<title type="alt">Kanon der Medizin</title>
+						<title type="alt">Canon medicinae</title>
+						<title type="SMvar">Bůch Canonis</title>
+						<title type="SMvar">Bůch der benügnúß</title>
+						<author ref="#avi">Avicenna</author>
+						<date>11. Jh.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Kanon_der_Medizin&amp;oldid=246790362</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q466060&amp;oldid=2254069462</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4209616-9</idno>
+						<list type="textRef">
+							<item>Kap. 237: Gloſa, Seite 198</item>
+							<item>Kap. 243: Gloſa, Seite 207</item>
+						</list>
+					</bibl>
+					<bibl xml:id="HAph">
+						<title type="reg">Aphorismi</title>
+						<title type="alt">Aphorismen</title>
+						<title type="SMvar">Bůch Amphoriſmorum</title>
+						<author ref="#hip">Hippokrates</author>
+						<date>5.-4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Aphorismen_(Corpus_Hippocraticum)&amp;oldid=244142575</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q29788467&amp;oldid=2123142866</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4196467-6</idno>
+						<list type="textRef">
+						    <item>Kap. 156: De arte Coenudi, Seite 136</item>
+							<item>Kap. 196: Ratio Secundi ſigni maſculi, Seite 160</item>
+							<item>Kap. 198: Gloſa, Seite 163</item>
+							<item>Kap. 221: Gloſa, Seite 184</item>
+							<item>Kap. 234: ÿpocras, Seite 195</item>
+						</list>
+					</bibl>
+					<bibl xml:id="GT">
+						<title type="reg">Ars medica</title>
+						<title type="alt">Tegni</title>
+						<title type="SMvar">Tengni</title>
+						<author ref="#gal">Galen</author>
+						<date>2. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4414228-6</idno>
+						<list type="textRef">
+							<item>Kap. 167: Gloſa, Seite 144</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristDA">
+						<title type="reg">De anima</title>
+						<title type="SMvar">Bůch der ſele</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=De_anima&amp;oldid=246638395</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4192601-8</idno>
+						<list type="textRef">
+							<item>Kap. 3:Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 9</item>
+							<item>Kap. 3:Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 11</item>
+							<item>Kap. 65: De filio ſolis, Seite 62</item>
+							<item>Kap. 67: Gloſa, Seite 64</item>
+							<item>Kap. 103: Notandum, Seite 95</item>
+							<item>Kap. 103: Notandum, Seite 96</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AverDA">
+						<title type="reg">De anima</title>
+						<title type="SMvar">Bůch der ſele</title>
+						<author ref="#ave">Averroes</author>
+						<date>12. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/7615561-4</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 10</item>
+							<item>Kap. 226: Nota, Seite 189</item>
+							<item>Kap. 245: Nota, Seite 208</item>
+							<item>Kap. 247: Gloſa, Seite 210</item>
+							<item>Kap. 256: Notandum, Seite 219</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristAnimal">
+						<title type="reg">De animalibus</title>
+                        <title type="alt">Historia animalium</title>
+                        <title type="alt">De partibus animalium</title>
+                        <title type="alt">De generatione animalium</title>
+						<title type="SMvar">Bůch von den diern</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<list type="textRef">
+							<item>Kap. 103: Notandum, Seite 97</item>
+							<item>Kap. 105: Notandum, Seite 99</item>
+							<item>Kap. 105: Notandum, Seite 99</item>
+							<item>Kap. 226: Nota, Seite 189</item>
+							<item>Kap. 237: Gloſa, Seite 198</item>
+						</list>
+                        <note type="info">Hier ist vermutlich eine der gesammelten Übersetzungen aristotelischer Schriften zu Tieren, speziell Michael Scotus' Bearbeitung der aristotelischen Schriften Historia animalium, De partibus animalium und De generatione animalium gemeint (vgl. Bosselmann-Cyran 1985:268-269).</note>
+					</bibl>
+					<bibl xml:id="AlbCM">
+						<title type="reg">De caelo et mundo</title>
+						<title type="alt">Liber phisicorum</title>
+						<title type="SMvar">Bůch des weſens der ſunnen vnd des mones</title>
+						<author ref="#alb">Albertus Magnus</author>
+						<date>13. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/1140876473</idno>
+						<list type="textRef">
+							<item>Kap. 48: De piſce, Seite 47</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristC">
+						<title type="reg">De Caelo</title>
+						<title type="SMvar">Bůch von dem himel vnd von der welt</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=%C3%9Cber_den_Himmel&amp;oldid=246492627</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4128887-7</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 13</item>
+							<item>Kap. 13: Teꝛtium Dubium, Seite 21</item>
+							<item>Kap. 160: Gloſa primum Dubium, Seite 140</item>
+						</list>
+					</bibl>
+					<bibl xml:id="bDCP">
+						<title type="reg">De Consolatione Philosophiae</title>
+						<title type="SMvar">Von der troſtunge der Naturlichen kunſt</title>
+						<author ref="#boe">Boethius</author>
+						<date>ca. 523</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Der_Trost_der_Philosophie&amp;oldid=242589727</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4099136-2</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 12</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristDGEC">
+						<title type="reg">De generatione et corruptione</title>
+						<title type="SMvar">Bůche der geburte Vnd der ʒerſtörunge</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=De_generatione_et_corruptione&amp;oldid=232879021</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4344661-9</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 9</item>
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 10</item>
+							<item>Kap. 146: Vnd ſurgat totum mixtum, Seite 128</item>
+							<item>Kap. 151: Gloſa, Seite 130</item>
+							<item>Kap. 246: Textus, Seite 209</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AverDGEC">
+						<title type="reg">De generatione et corruptione</title>
+						<title type="alt">Kitāb al-Kaun wa-'l-fasād </title>
+						<title type="SMvar">Bůch der geburt vnd der ʒerſtörung</title>
+						<author ref="#ave">Averroes</author>
+						<date>1172</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/7513514-0</idno>
+						<list type="textRef">
+							<item>Kap. 29: Soluitur dubium, Seite 34</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristDJES">
+						<title type="reg">De Iuventute et Senectute</title>
+						<title type="SMvar">Bůch von der Jugend vnd von dem alter</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://en.wikipedia.org/w/index.php?title=On_Youth,_Old_Age,_Life_and_Death,_and_Respiration&amp;oldid=1254583584</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4344357-6</idno>
+						<list type="textRef">
+							<item>Kap. 239: Gloſa, Seite 203</item>
+							<item>Kap. 242: Textus, Seite 206</item>
+						</list>
+					</bibl>
+					<bibl xml:id="GLA">
+						<title type="reg">De locis affectis</title>
+						<title type="SMvar">Tractat von der herwúrgung der matrix</title>
+						<author ref="#gal">Galen</author>
+						<date>2. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4192493-9</idno>
+						<list type="textRef">
+							<item>Kap. 214: Textus de Galieno, Seite 177</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristLBV">
+						<title type="reg">De longitudine et brevitate vitae</title>
+						<title type="SMvar">Bůch von der langung vnd kurtʒerung des lebens</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://en.wikipedia.org/w/index.php?title=On_Length_and_Shortness_of_Life&amp;oldid=1186429655</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4344349-7</idno>
+						<list type="textRef">
+							<item>Kap. 250: Textus, Seite 214</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AlbPE">
+						<title type="reg">Liber de causis proprietatum elementorum</title>
+						<title type="SMvar">bůch von den eigenſchafften der Elemen̄ten</title>
+						<author ref="#Alb">Albertus Magnus</author>
+						<date>13. Jh.</date>
+						<list type="textRef">
+							<item>Kap. 81: Notandum, Seite 79</item>
+							<item>Kap. 81: Notandum, Seite 80</item>
+						</list>
+<note>Kommentar zur pseudo-aristotelischen Schrift De Proprietatibus Elementorum (https://en.wikipedia.org/w/index.php?title=De_Proprietatibus_Elementorum&amp;oldid=1203303746).</note>
+					</bibl>
+					<bibl xml:id="AristSV">
+						<title type="reg">De Somno et Vigilia</title>
+						<title type="SMvar">Bůch de Sompno et vigilia</title>
+						<title type="SMvar">Bůch von dem ſlaff vnd der wachung</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://en.wikipedia.org/w/index.php?title=On_Sleep&amp;oldid=1187383089</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4344339-4</idno>
+						<list type="textRef">
+							<item>Kap. 54: Expeꝛimentum, Seite 51</item>
+							<item>Kap. 208: De ſuffocacione primum, Seite 170</item>
+						</list>
+					</bibl>
+					<bibl xml:id="psGDS">
+						<title type="reg">De spermate</title>
+						<title type="SMvar">Bůch von dem ſamen</title>
+						<author ref="#gal">Pseudo-Galen</author>
+						<date>3. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4576162-0</idno>
+						<list type="textRef">
+							<item>Kap. 87: Gloſa, Seite 88</item>
+							<item>Kap. 158: Gloſa Quomodo fiant duo capita uel duo alia menbra, Seite 137</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristVM">
+						<title type="reg">De Vita et Morte</title>
+						<title type="SMvar">Bůchel von dem tod vnd dem leben</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://en.wikipedia.org/w/index.php?title=On_Youth,_Old_Age,_Life_and_Death,_and_Respiration&amp;oldid=1254583584</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4344401-5</idno>
+						<list type="textRef">
+							<item>Kap. 242: Textus, Seite 206</item>
+						</list>
+					</bibl>
+					<bibl xml:id="GA">
+						<title type="reg">In Hippocratis aphorismos commentarii</title>
+						<title type="SMvar">bůch amphoriſmorum</title>
+						<author ref="#gal">Galen</author>
+						<date>2. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4418442-6</idno>
+						<list type="textRef">
+							<item>Kap. 167: Gloſa, Seite 144</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AverP">
+						<title type="reg">In Physicam</title>
+						<title type="alt">Commentarium magnum in Aristotelis Physicam</title>
+						<title type="SMvar">Bůch der natur</title>
+						<author ref="#ave">Averroes</author>
+						<date>12. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/1241854270</idno>
+						<list type="textRef">
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AviS">
+						<title type="reg">Kitāb aš-Šifāʾ</title>
+						<title type="SMvar">ſufficiencia</title>
+                        <title type="alt">Buch der Heilung</title>
+						<author ref="#avi">Avicenna</author>
+						<date>1027</date>
+						<idno type="url" subtype="wikipedia">https://en.wikipedia.org/w/index.php?title=The_Book_of_Healing&amp;oldid=1248586414</idno>
+						<idno type="url" subtype="bri">https://www.britannica.com/topic/Kitab-al-shifa</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4628117-4</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q1030940&amp;oldid=2189685745</idno>
+						<list type="textRef">
+							<item>Kap. 18: Notandum, Seite 26</item>
+							<item>Kap. 77: De Animalibus Jnpeꝛfectis, Seite 73</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 77</item>
+							<item>Kap. 169: Textus de Lapidibus, Seite 146</item>
+						</list>
+                        <note>Das auf Seite 73 referenzierte "Bůch[] von dem ſintfluß" (35r) ist das Kapitel De diluviis dieser Schrift. Weitere Informationen und Edition des Textes bei Dag Nikolaus Hasse (https://doi.org/10.1484/.CAT-EB.5.134028).</note>
+					</bibl>
+					<bibl xml:id="AlbAnimal">
+						<title type="reg">De animalibus</title>
+                        <title type="alt">Liber de animalibus</title>
+                        <title type="SMvar">bůch von dem ſamen der froũwen</title>
+						<title type="SMvar">Bůch der geburt der dier</title>
+						<author ref="#alb">Albertus Magnus</author>
+						<date>13. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4565709-9</idno>
+						<list type="textRef">
+						    <item>Kap. 208: De ſuffocacione primum, Seite 169</item>
+							<item>Kap. 223: Gloſa, Seite 187</item>
+						</list>
+						<note>Die Referenz zum "bůch von dem ſamen der froũwen" (83r) wurde diesem Text zugeordnet, da es von Albertus Magnus' Werken die meisten Referenzen zu Menstruation enthält (s. Alberti Magni E-Corpus (http://watarts.uwaterloo.ca/cgi-bin/cgiwrap/albertus/searchAlbertus.cgi)).</note>
+					</bibl>
+					<bibl xml:id="AristMP">
+						<title type="reg">Metaphysica</title>
+						<title type="SMvar">Bůch Methaphiſice</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Metaphysik_(Aristoteles)&amp;oldid=248738382</idno>
+						<idno type="url" subtype="Stanford Encyclopedia of Philosophy">https://plato.stanford.edu/archives/win2021/entries/aristotle-metaphysics/</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4209121-4</idno>
+						<list type="textRef">
+							<item>Kap. 76: Pꝛimo, Seite 72</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 83: Notandum, Seite 82</item>
+							<item>Kap. 160: Gloſa primum Dubium, Seite 140</item>
+							<item>Kap. 257: Gloſa, Seite 220</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AlbMet">
+						<title type="reg">Meteora</title>
+						<title type="alt">Liber metheororum</title>
+						<title type="SMvar">bůch Metheurorum</title>
+						<author ref="#alb">Albertus Magnus</author>
+						<date>13. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/1141180634</idno>
+						<list type="textRef">
+							<item>Kap. 111: Notandum, Seite 107</item>
+							<item>Kap. 246: Textus, Seite 209</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristM">
+						<title type="reg">Meteorologica</title>
+						<title type="SMvar">liber Metheurorum</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://en.wikipedia.org/w/index.php?title=Meteorology_(Aristotle)&amp;oldid=1234037836</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4344662-0</idno>
+						<list type="textRef">
+							<item>Kap. 13: Teꝛtium Dubium, Seite 20</item>
+							<item>Kap. 29: Soluitur dubium, Seite 32</item>
+							<item>Kap. 83: Notandum, Seite 81</item>
+							<item>Kap. 86: Notandum, Seite 84</item>
+							<item>Kap. 167: Gloſa, Seite 144</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AlbPh">
+						<title type="reg">Physica</title>
+						<title type="SMvar">Bůch der natur</title>
+						<author ref="#alb">Albertus Magnus</author>
+						<date>13. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4263223-7</idno>
+						<list type="textRef">
+							<item>Kap. 122: Gloſa, Seite 113</item>
+							<item>Kap. 158: Gloſa, Seite 138</item>
+							<item>Kap. 170: Gloſa, Seite 147</item>
+							<item>Kap. 171: Textus, Seite 148</item>
+						</list>
+					</bibl>
+					<bibl xml:id="AristP">
+						<title type="reg">Physica</title>
+						<title type="SMvar">Bůch der natur</title>
+						<author ref="#ari">Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Physik_(Aristoteles)&amp;oldid=246537251</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4194871-3</idno>
+						<list type="textRef">
+							<item>Kap. 3:Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 12</item>
+							<item>Kap. 3:Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 13</item>
+							<item>Kap. 143: Capitulum quartum Tractatus Secundus, Seite 125</item>
+						</list>
+					</bibl>
+					<bibl xml:id="psAristP">
+						<title type="reg">Physiognomonica</title>
+						<title type="SMvar">phÿſonomia</title>
+						<author ref="#psAri">Pseudo-Aristoteles</author>
+						<date>4. Jh. v. Chr.</date>
+						<idno type="url" subtype="wikipedia">https://en.wikipedia.org/w/index.php?title=Physiognomonics&amp;oldid=1235289509</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4237982-9</idno>
+						<list type="textRef">
+							<item>Kap. 67: Gloſa, Seite 64</item>
+						</list>
+					</bibl>
+					<bibl xml:id="planBuch">
+						<title type="reg">Planetenbuch</title>
+						<title type="SMvar">büchelin von den wirckungen der planeten</title>
+						<title type="SMvar">Búchel von den wirckungen der planeten</title>
+						<list type="textRef">
+							<item>Kap. 59: Notandum, Seite 56</item>
+							<item>Kap. 61: Gloſa, Seite 58</item>
+						</list>
+						<note>Welches konkrete Werk hier referenziert wird, konnte nicht ermittelt werden. Es bestehen allerdings inhaltliche Gemeinsamkeiten mit Ausführungen zu Planetenkindern in den Planetentraktaten des 15. und 16. Jahrhunderts, sowohl in Version B des iatromathematischen Hausbuches und anderen astromedizinischen Schriften.</note>
+					</bibl>
+					<bibl xml:id="psAristSS">
+						<title type="reg">Secreta Secretorum</title>
+						<title type="alt">Sirr al-asrār</title>
+						<title type="SMvar">heimlichen bůchern der heimlichkeit</title>
+						<author ref="#psAri">Pseudo-Aristoteles</author>
+						<date>10.-11. Jh.</date>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Secretum_secretorum&amp;oldid=246901735</idno>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4180605-0</idno>
+						<list type="textRef">
+							<item>Kap. 215: Cauſa quare mulieres debent coire cum viro, Seite 178</item>
+						</list>
+					</bibl>
+					<bibl xml:id="psAlbSN">
+						<title type="reg">Summa naturalium</title>
+						<title type="SMvar">ſumme Naturalium</title>
+						<author ref="#psAlb">Pseudo-Albertus Magnus</author>
+						<date>13. Jh.</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/7793098-8</idno>
+						<list type="textRef">
+							<item>Kap. 114: Gloſa, Seite 109</item>
+						</list>
+						<note>Autor ist tatsächlich Albertus von Orlamünde.</note>
+					</bibl>
+					<bibl xml:id="AverM">
+						<title type="reg">Tafsīr mā baʿda 'ṭ-ṭabīʿa</title>
+						<title type="alt">Metaphysik</title>
+						<title type="SMvar">Methaphiſica</title>
+						<author ref="#ave">Averroes</author>
+						<date>1192</date>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/4763712-2</idno>
+						<list type="textRef">
+							<item>Kap. 29: Soluitur dubium, Seite 33</item>
+							<item>Kap. 29: Soluitur dubium, Seite 35</item>
+							<item>Kap. 29: Soluitur dubium, Seite 36</item>
+							<item>Kap. 78: Gloſa, Seite 75</item>
+							<item>Kap. 161: Secundum Dubium, Seite 141</item>
+						</list>
+					</bibl>
+				</listBibl>
+			</div>
+		</body>
+	</text>
+</TEI>
