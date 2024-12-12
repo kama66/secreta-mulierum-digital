@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="personReg">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Verzeichnis der Personennamen</title>
+				<author>
+					<persName>
+						<surname>Mayer</surname>
+						<forename>Katharina</forename>
+					</persName>
+				</author>
+			</titleStmt>
+			<sourceDesc>
+				<p>Born digital.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>Personenregister</head>
+				<p>In diesem Register sind sämtliche im Text erwähnten Personen erfasst und, je nach Verfügbarkeit, mit Normdaten und weiterführenden Informationen verknüpft.</p>
+				<listPerson xml:id="listPersons">
+					<person xml:id="ada" role="biblicalFigure">
+						<persName type="reg">Adam</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118646877</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q58701&amp;oldid=2259038354</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Adam_und_Eva&amp;oldid=248110247</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e103260</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 11</item>
+							<item>Kap 132: Gloſa, Seite 120</item>
+						</list>
+					</person>
+					<person xml:id="alb" role="author">
+						<persName type="reg">Albertus Magnus</persName>
+						<birth>
+							<date>1193</date>
+						</birth>
+						<death>
+							<date>1280</date>
+						</death>
+						<persName type="SMvar">Alberthus</persName>
+						<idno type="url" subtype="gnd">http://d-nb.info/gnd/118637649</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q60059&amp;oldid=2259741139</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Albertus_Magnus&amp;oldid=247318411</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118637649.html#ndbcontent</idno>
+						<list type="textRef">
+							<item>Kap. 2: Gloſa, Seite 8</item>
+							<item>Kap. 48: De piſce, Seite 47</item>
+							<item>Kap. 74: Gloſa, Seite 70</item>
+							<item>Kap. 75: Quaꝛtum capittulum, Seite 71</item>
+							<item>Kap. 76: Pꝛimo, Seite 71</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 77</item>
+							<item>Kap. 83: Notandum, Seite 81</item>
+							<item>Kap. 111: Notandum, Seite 107</item>
+							<item>Kap. 114: Gloſa, Seite 109</item>
+							<item>Kap. 122: Gloſa, Seite 113</item>
+							<item>Kap. 158: Gloſa Quomodo fiant duo capita uel duo alia menbra, Seite 138</item>
+							<item>Kap. 158: Gloſa Quomodo fiant duo capita uel duo alia menbra, Seite 138</item>
+							<item>Kap. 159: Textus De hermofrodito, Seite 139</item>
+							<item>Kap. 164: Solucio, Seite 142</item>
+							<item>Kap. 166: De gemellis habentibus virtutem Jn lateꝛibus, Seite 143</item>
+							<item>Kap. 166: De gemellis habentibus virtutem Jn lateꝛibus, Seite 143</item>
+							<item>Kap. 166: De gemellis habentibus virtutem Jn lateꝛibus, Seite 143</item>
+							<item>Kap. 167: Gloſa, Seite 145</item>
+							<item>Kap. 168: Notandum, Seite 145</item>
+							<item>Kap. 168: Notandum, Seite 145</item>
+							<item>Kap. 168: Notandum, Seite 145</item>
+							<item>Kap. 169: Textus de Lapidibus, Seite 146</item>
+							<item>Kap. 170: Gloſa, Seite 147</item>
+							<item>Kap. 170: Gloſa, Seite 147</item>
+							<item>Kap. 170: Gloſa, Seite 147</item>
+							<item>Kap. 174: Der tritt Tractat dis Bůches, Seite 149</item>
+							<item>Kap. 208: De ſuffocacione primum, Seite 169</item>
+							<item>Kap. 223: Gloſa, Seite 187</item>
+							<item>Kap. 246: Textus, Seite 209</item>
+						</list>
+						<listBibl type="attrWorks">
+							<bibl source="#AlbAnimal">De animalibus</bibl>
+                            <bibl source="#AlbCM">De caelo et mundo</bibl>
+							<bibl source="#AlbMet">Meteora</bibl>
+                            <bibl source="#AlbPE">Liber de causis proprietatum elementorum</bibl>
+							<bibl source="#AlbPh">Physica</bibl>
+							<bibl source="#psAlbSN">Summa naturalium</bibl>
+						</listBibl>
+					</person>
+					<person xml:id="ari" role="author">
+						<persName type="reg">Aristoteles</persName>
+						<birth>
+							<date>384</date>
+						</birth>
+						<death>
+							<date>322</date>
+						</death>
+						<persName type="SMvar">Ariſtotiles</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118650130</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q868&amp;oldid=2259727578</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Aristoteles&amp;oldid=247473924</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e136530</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118650130.html</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 9</item>
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 9</item>
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 9</item>
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 10</item>
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 11</item>
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 13</item>
+							<item>Kap. 5: De generatione Embꝛionis, Seite 14</item>
+							<item>Kap. 6: Gloſa, Seite 14</item>
+							<item>Kap. 13: Teꝛtium Dubium, Seite 20</item>
+							<item>Kap. 13: Teꝛtium Dubium, Seite 21</item>
+							<item>Kap. 16: Capitulum Secundum de foꝛmatione fetus, Seite 24</item>
+							<item>Kap. 29: Soluitur dubium, Seite 32</item>
+							<item>Kap. 29: Soluitur dubium, Seite 35</item>
+							<item>Kap. 29: Soluitur dubium, Seite 36</item>
+							<item>Kap. 54: Expeꝛimentum, Seite 51</item>
+							<item>Kap. 59: Notandum, Seite 55</item>
+							<item>Kap. 65: De filio ſolis, Seite 62</item>
+							<item>Kap. 67: Gloſa, Seite 64</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 77</item>
+							<item>Kap. 81: Notandum, Seite 79</item>
+							<item>Kap. 83: Notandum, Seite 81</item>
+							<item>Kap. 86: Notandum, Seite 83</item>
+							<item>Kap. 103: Notandum, Seite 97</item>
+							<item>Kap. 105: Notandum, Seite 99</item>
+							<item>Kap. 105: Notandum, Seite 99</item>
+							<item>Kap. 146: Vnd ſurgat totum mixtum, Seite 128</item>
+							<item>Kap. 146: Vnd ſurgat totum mixtum, Seite 128</item>
+							<item>Kap. 151: Gloſa, Seite 130</item>
+							<item>Kap. 160: Gloſa primum Dubium, Seite 140</item>
+							<item>Kap. 167: Gloſa, Seite 144</item>
+							<item>Kap. 226: Nota, Seite 189</item>
+							<item>Kap. 237: Gloſa, Seite 198</item>
+							<item>Kap. 239: Gloſa, Seite 203</item>
+							<item>Kap. 250: Textus, Seite 214</item>
+						</list>
+						<listBibl type="attrWorks">
+							<bibl source="#AristDA">De anima</bibl>
+							<bibl source="#AristP">Physica</bibl>
+							<bibl source="#AristDJES">De Iuventute et Senectute</bibl>
+							<bibl source="#AristVM">De Vita et Morte</bibl>
+							<bibl source="#AristLBV">De longitudine et brevitate vitae</bibl>
+							<bibl source="#AristDGEC">De generatione et corruptione</bibl>
+							<bibl source="#AristAnimal">De animalibus</bibl>
+							<bibl source="#AristM">Meteorologica</bibl>
+							<bibl source="#AristSV">De Somno et Vigilia</bibl>
+							<bibl source="#AristMP">Metaphysica</bibl>
+							<bibl source="#AristC">De Caelo</bibl>
+							<bibl source="#psAristP">Physiognomonica</bibl>
+							<bibl source="#psAristSS">Secreta Secretorum</bibl>
+						</listBibl>
+					</person>
+					<person xml:id="ave" role="author">
+						<persName type="reg">Averroes</persName>
+						<birth>
+							<date>1126</date>
+						</birth>
+						<death>
+							<date>1198</date>
+						</death>
+						<persName type="alt">Abu-'l-Walīd Muḥammad Ibn-Aḥmad Ibn-Rušd</persName>
+						<persName type="alt">Ibn-Rušd</persName>
+						<persName type="SMvar">Auerrnis</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118505238</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q39837&amp;oldid=2260077848</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Averroes&amp;oldid=246062482</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118505238.html</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 10</item>
+							<item>Kap. 29: Soluitur dubium, Seite 33</item>
+							<item>Kap. 29: Soluitur dubium, Seite 34</item>
+							<item>Kap. 29: Soluitur dubium, Seite 34</item>
+							<item>Kap. 29: Soluitur dubium, Seite 35</item>
+							<item>Kap. 29: Soluitur dubium, Seite 36</item>
+							<item>Kap. 78: Gloſa, Seite 75</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 161: Secundum Dubium, Seite 141</item>
+							<item>Kap. 226: Nota, Seite 189</item>
+							<item>Kap. 245: Nota, Seite 208</item>
+							<item>Kap. 256: Notandum, Seite 219</item>
+						</list>
+						<listBibl type="attrWorks">
+							<bibl source="#AverDGEC">De generatione et corruptione</bibl>
+<bibl source="#AverM">Tafsīr mā baʿda 'ṭ-ṭabīʿa</bibl>
+<bibl source="#AverDA">De anima</bibl>
+<bibl source="#AverP">In Physicam</bibl>
+						</listBibl>
+					</person>
+					<person xml:id="avi" role="author">
+						<persName type="reg">Avicenna</persName>
+						<birth>
+							<date>980</date>
+						</birth>
+						<death>
+							<date>1037</date>
+						</death>
+						<persName type="alt">Ibn Sīnā</persName>
+						<persName type="alt">Abū-ʿAlī al-Ḥusain Ibn-ʿAbdallāh Ibn-Sīnā</persName>
+						<persName type="SMvar">Auicenna</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118505254</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q8011&amp;oldid=2259731643</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Avicenna&amp;oldid=248793946</idno>
+						<idno type="url" subtype="bri">https://www.britannica.com/biography/Avicenna</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118505254.html</idno>
+						<list type="textRef">
+							<item>Kap. 18: Notandum, Seite 26</item>
+							<item>Kap. 18: Notandum, Seite 27</item>
+							<item>Kap. 77: De Animalibus Jnpeꝛfectis, Seite 72</item>
+							<item>Kap. 77: De Animalibus Jnpeꝛfectis, Seite 73</item>
+							<item>Kap. 77: De Animalibus Jnpeꝛfectis, Seite 74</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 76</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 77</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 77</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 77</item>
+							<item>Kap. 79: Ɉmprobacio Opinionis Auicenne, Seite 78</item>
+							<item>Kap. 82: De Animalibus perfectis Et inpeꝛfectis, Seite 80</item>
+							<item>Kap. 159: Textus De hermofrodito, Seite 139</item>
+							<item>Kap. 169: Textus de Lapidibus, Seite 146</item>
+							<item>Kap. 172: Reſponſio, Seite 148</item>
+							<item>Kap. 213: Gloſa, Seite 177</item>
+							<item>Kap. 237: Gloſa, Seite 198</item>
+							<item>Kap. 240: Notandum, Seite 204</item>
+							<item>Kap. 243: Gloſa, Seite 207</item>
+						</list>
+						<listBibl type="attrWorks">
+							<bibl source="#AviS">Kitāb aš-Šifāʾ</bibl>
+							<bibl source="#AviC">al-Qānūn fī ’ṭ-Ṭibb</bibl>
+						</listBibl>
+					</person>
+					<person xml:id="boe" role="author">
+						<persName type="reg">Boethius</persName>
+						<birth>
+							<date>480</date>
+						</birth>
+						<death>
+							<date>524</date>
+						</death>
+						<persName type="alt">Anicius Manlius Severinus Boethius</persName>
+						<persName type="SMvar">Boetius</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/11851282X</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q102851&amp;oldid=2259748413</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Boethius&amp;oldid=248409143</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e218430</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd11851282X.html</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 11</item>
+						</list>
+						<listBibl type="attrWorks">
+							<bibl source="#bDCP">De Consolatione Philosophiae</bibl>
+						</listBibl>
+					</person>
+					<person xml:id="eva" role="biblicalFigure">
+						<persName type="reg">Eva</persName>
+						<persName type="SMvar">Eua</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118531441</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q58701&amp;oldid=2259038354</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Adam_und_Eva&amp;oldid=248110247</idno>
+						<list type="textRef">
+							<item>Kap 132: Gloſa, Seite 120</item>
+						</list>
+					</person>
+					<person xml:id="gal" role="author">
+						<persName type="reg">Galenus</persName>
+						<birth>
+							<date>129</date>
+						</birth>
+						<death>
+							<date>199</date>
+						</death>
+						<persName type="alt">Galen von Pergamon</persName>
+						<persName type="SMvar">Galienus</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118537202</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q8778&amp;oldid=2259732056</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Galenos&amp;oldid=247826289</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e417950</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118537202.html</idno>
+						<list type="textRef">
+							<item>Kap. 87: Gloſa, Seite 88</item>
+							<item>Kap. 158: Gloſa Quomodo fiant duo capita uel duo alia menbra, Seite 137</item>
+							<item>Kap. 158: Gloſa Quomodo fiant duo capita uel duo alia menbra, Seite 138</item>
+							<item>Kap. 167: Gloſa, Seite 144</item>
+							<item>Kap. 167: Gloſa, Seite 144</item>
+							<item>Kap. 214: Textus de Galieno, Seite 177</item>
+							<item>Kap. 214: Textus de Galieno, Seite 177</item>
+							<item>Kap. 214: Textus de Galieno, Seite 178</item>
+						</list>
+						<listBibl type="attrWorks">
+							<bibl source="#GA">Aphorismen</bibl>
+							<bibl source="#GLA">De locis affectis</bibl>
+							<bibl source="#GT">Ars medica</bibl>
+							<bibl source="#psGDS">De spermate</bibl>
+						</listBibl>
+					</person>
+					<person xml:id="hip" role="author">
+						<persName type="reg">Hippokrates</persName>
+						<birth>
+							<date>460</date>
+						</birth>
+						<death>
+							<date>370</date>
+						</death>
+						<persName type="alt">Hippokrates von Kos</persName>
+						<persName type="SMvar">ÿppocrates</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/11855140X</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q5264&amp;oldid=2260401759</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Hippokrates_von_Kos&amp;oldid=249110869</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e514560</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd11855140X.html</idno>
+						<list type="textRef">
+							<item>Kap. 156: De arte Coenudi, Seite 136</item>
+							<item>Kap. 196: Ratio Secundi ſigni maſculi, Seite 160</item>
+							<item>Kap. 198: Gloſa, Seite 163</item>
+							<item>Kap. 221: Gloſa, Seite 184</item>
+							<item>Kap. 234: ÿpocras, Seite 195</item>
+							<item>Kap. 234: ÿpocras, Seite 195</item>
+						</list>
+						<listBibl type="attrWorks">
+							<bibl source="#HAph">Aphorismi</bibl>
+						</listBibl>
+					</person>
+					<person xml:id="pla" role="author">
+						<persName type="reg">Platon</persName>
+						<birth>
+							<date>427</date>
+						</birth>
+						<death>
+							<date>347</date>
+						</death>
+						<persName type="alt">Plato</persName>
+						<persName type="SMvar">Plato</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118594893</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q859&amp;oldid=2259727546</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Platon&amp;oldid=248698698</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e927070</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118594893.html</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 12</item>
+						</list>
+					</person>
+					<person xml:id="sen">
+						<persName type="reg">Seneca</persName>
+						<birth>
+							<date>ca. 1</date>
+						</birth>
+						<death>
+							<date>65</date>
+						</death>
+						<persName type="alt">Lucius Annaeus Seneca</persName>
+						<persName type="SMvar">Seneca</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118613200</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q2054&amp;oldid=2259729076</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Seneca&amp;oldid=250062040</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e1108480</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118613200.html</idno>
+						<list type="textRef">
+							<item>Kap 71: Gloſa, Seite 66</item>
+						</list>
+					</person>
+					<person xml:id="sok" role="author">
+						<persName type="reg">Sokrates</persName>
+						<birth>
+							<date>469</date>
+						</birth>
+						<death>
+							<date>399</date>
+						</death>
+						<persName type="SMvar">Sortes</persName>
+						<idno type="url" subtype="gnd">https://d-nb.info/gnd/118615270</idno>
+						<idno type="url" subtype="wikidata">https://www.wikidata.org/w/index.php?title=Q913&amp;oldid=2259727693</idno>
+						<idno type="url" subtype="wikipedia">https://de.wikipedia.org/w/index.php?title=Sokrates&amp;oldid=247026456</idno>
+						<idno type="url" subtype="dnp">https://doi.org/10.1163/1574-9347_dnp_e1116190</idno>
+						<idno type="url" subtype="deutsche biographie">https://www.deutsche-biographie.de/pnd118615270.html</idno>
+						<list type="textRef">
+							<item>Kap. 3: Hie ſagt deꝛ meiſteꝛ . von ettlichen vor reden, Seite 12</item>
+						</list>
+					</person>
+				</listPerson>
+			</div>
+		</body>
+	</text>
+</TEI>
