@@ -27,7 +27,7 @@
         </span>
     </xsl:template>
     <xsl:template match="tei:seg">
-        <span class="pop seg" title="Umstellung" data-bs-container="body" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-placement="right">
+        <span class="pop seg" data-bs-container="body" data-bs-toggle="popover" data-bs-trigger="hover focus" data-bs-placement="top">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
