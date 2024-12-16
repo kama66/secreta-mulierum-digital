@@ -27,7 +27,7 @@ def sortFiles(value):
 
 #get all chapter headings and corresponding page numbers
 def getTitles(tree, indexDict):
-        heads = tree.findall('.//h2')
+        heads = tree.findall('.//h3')
         
         for d in heads:
             pageEl = d.get('id')
@@ -51,7 +51,7 @@ def getTitles(tree, indexDict):
             chTitle = re.sub(r"^\s+", "", chTitle)
             chTitle = re.sub(r"\s+$", "", chTitle)
 
-            print(chTitle.encode("utf-8"))
+            #print(chTitle.encode("utf-8"))
             
             chNum = re.search(r'\d+$', pageEl)
             if chNum is not None:
