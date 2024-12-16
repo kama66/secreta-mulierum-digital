@@ -1,5 +1,5 @@
 # secreta-mulierum-digital
-Dieses Repositorium enthält die im Zuge der Erstellung der Secreta mulierum digital entstandenen Quelldaten.
+Dieses Repositorium enthält die im Zuge der Erstellung der Secreta mulierum digital entstandenen Editionsdaten.
 
 Diese beinhalten: 
 TEI/XML-Dateien des Editionstextes sowie der Register, 
